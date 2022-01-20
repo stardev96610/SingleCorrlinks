@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@signalwire/node": "^2.4.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "pm2": "^5.1.2",
+    "puppeteer": "^11.0.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0"
+  }
+}
